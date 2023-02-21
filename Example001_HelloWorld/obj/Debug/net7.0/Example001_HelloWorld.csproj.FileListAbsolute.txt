@@ -1,0 +1,15 @@
+Z:\Proects\Lesson_01\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.exe
+Z:\Proects\Lesson_01\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.deps.json
+Z:\Proects\Lesson_01\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.runtimeconfig.json
+Z:\Proects\Lesson_01\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.dll
+Z:\Proects\Lesson_01\Example001_HelloWorld\bin\Debug\net7.0\Example001_HelloWorld.pdb
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.csproj.AssemblyReference.cache
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.AssemblyInfoInputs.cache
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.AssemblyInfo.cs
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.csproj.CoreCompileInputs.cache
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.dll
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\refint\Example001_HelloWorld.dll
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.pdb
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\Example001_HelloWorld.genruntimeconfig.cache
+Z:\Proects\Lesson_01\Example001_HelloWorld\obj\Debug\net7.0\ref\Example001_HelloWorld.dll
